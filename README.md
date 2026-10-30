@@ -5,14 +5,14 @@
 - Student
 - #Coding
 - I didn't know this existed
-- Do check my projects (especially my FirstGame) :D
+- Do check my projects (especially my FirstGame) 
 
 ### To talk with me:
 <a href="https://discord.com/channels/@me" target="_blank">
 <img src="https://www.iconsdb.com/icons/preview/black/discord-xxl.png" width= 5% height= auto/>
 </a>
 
-- User - FadingNinja#3511
+- User - to be filled
 
 ### Apps
 <a href="https://code.visualstudio.com/" target="_blank">
